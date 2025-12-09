@@ -1,0 +1,10 @@
+{
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "lldb-dap.executable-path": "/usr/bin/lldb-dap-18",
+  "lldb-dap.initCommands": ["type format add --format u 'unsigned char'"]
+}
