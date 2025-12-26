@@ -11,3 +11,4 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON) # Used by language servers (e.g., clangd) 
 
 add_executable(day1_part1 day1/part1.cpp)
 add_executable(day1_part2 day1/part2.cpp)
+add_executable(day2_part1 day2/part1.cpp)

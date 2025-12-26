@@ -12,6 +12,12 @@
       "type": "lldb-dap",
       "request": "launch",
       "program": "${workspaceFolder}/build/day1_part2"
+    },
+    {
+      "name": "Day 2 - Part 1",
+      "type": "lldb-dap",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/day2_part1"
     }
   ]
 }

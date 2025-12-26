@@ -3,10 +3,11 @@
 ## Configure
 
 ```
-cmake -G Ninja -S . -B build
+cmake -DCMAKE_BUILD_TYPE=Debug -B build -GNinja -S .
 ```
 
 ## Build
+
 ```
 cmake --build build
 ```
